@@ -1,0 +1,14 @@
+D:\C# Programs\OrdermgntEF.Data\bin\Debug\net6.0\OrdermgntEF.Data.deps.json
+D:\C# Programs\OrdermgntEF.Data\bin\Debug\net6.0\OrdermgntEF.Data.runtimeconfig.json
+D:\C# Programs\OrdermgntEF.Data\bin\Debug\net6.0\OrdermgntEF.Data.dll
+D:\C# Programs\OrdermgntEF.Data\bin\Debug\net6.0\OrdermgntEF.Data.pdb
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.csproj.AssemblyReference.cache
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.AssemblyInfoInputs.cache
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.AssemblyInfo.cs
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.csproj.CoreCompileInputs.cache
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.dll
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\refint\OrdermgntEF.Data.dll
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.pdb
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\OrdermgntEF.Data.genruntimeconfig.cache
+D:\C# Programs\OrdermgntEF.Data\obj\Debug\net6.0\ref\OrdermgntEF.Data.dll
